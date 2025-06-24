@@ -1,0 +1,47 @@
+John Smith
+Data Scientist
+john.smith@email.com | (415) 555-1234 | linkedin.com/in/johnsmith
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 5+ years of expertise in machine learning, data analysis, and predictive modeling. Proven track record of developing and deploying ML models that drive business value.
+
+TECHNICAL SKILLS
+- Python, R, SQL
+- Machine Learning (Scikit-learn, TensorFlow, PyTorch)
+- Data Analysis & Visualization
+- Big Data Technologies (Hadoop, Spark)
+- Cloud Platforms (AWS, GCP)
+- Deep Learning
+- Natural Language Processing
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | TechInnovate Inc. | San Francisco, CA | Jan 2020 - Present
+- Led development of ML models for customer churn prediction
+- Implemented automated data pipelines reducing processing time by 40%
+- Mentored junior data scientists and conducted technical workshops
+
+Data Scientist | DataDriven Solutions | Oakland, CA | Mar 2018 - Dec 2019
+- Developed recommendation systems for e-commerce platform
+- Created interactive dashboards for business stakeholders
+- Optimized data processing workflows
+
+Machine Learning Engineer | AI Innovations | San Jose, CA | Jun 2016 - Feb 2018
+- Built and deployed ML models for fraud detection
+- Developed automated testing frameworks for ML pipelines
+- Collaborated with cross-functional teams on AI initiatives
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2016
+- Specialization in Machine Learning and AI
+- GPA: 3.8/4.0
+- Thesis: "Advanced Techniques in Deep Learning for Computer Vision"
+
+Bachelor of Science in Statistics | University of California, Berkeley | 2014
+- Minor in Computer Science
+- GPA: 3.7/4.0
+- Dean's List all semesters
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Google Cloud Professional Data Engineer
+- Deep Learning Specialization (Coursera) 

@@ -1,0 +1,15 @@
+Python
+R
+SQL
+scikit-learn
+TensorFlow
+PyTorch
+Machine Learning
+Statistical Analysis
+Data Science
+Team Management
+Leadership
+Project Management
+Communication Skills
+Cloud Computing (AWS/GCP/Azure)
+Big Data (Spark, Hadoop) 

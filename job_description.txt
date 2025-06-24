@@ -1,0 +1,34 @@
+Data Science Manager
+
+Job Description:
+We are looking for an experienced Data Science Manager to lead our growing data science team. The ideal candidate will have a strong technical background in data science, machine learning, and analytics, combined with excellent leadership skills. You will be responsible for leading a team of data scientists, setting project priorities, and collaborating with cross-functional teams to deliver high-impact data solutions for our business.
+
+Responsibilities:
+- Lead and mentor a team of data scientists and analysts
+- Define and implement data science strategies aligned with company objectives
+- Oversee the development of machine learning models and algorithms
+- Collaborate with product, engineering, and business teams to identify opportunities for data-driven solutions
+- Establish best practices for data science methodology, tools, and workflows
+- Translate complex analytical findings into actionable business insights
+- Manage project timelines, resources, and deliverables
+- Stay current with the latest advancements in data science, machine learning, and AI
+
+Requirements:
+- Master's or PhD in Computer Science, Statistics, Mathematics, or related field
+- 5+ years of hands-on experience in data science and machine learning
+- 3+ years of experience managing data science teams
+- Expert knowledge of Python, R, SQL, and data science libraries (scikit-learn, TensorFlow, PyTorch)
+- Experience with big data technologies (Spark, Hadoop)
+- Strong understanding of statistical analysis, experimental design, and causal inference
+- Excellent communication skills and ability to translate technical concepts to non-technical stakeholders
+- Proven track record of delivering data science projects that drive business value
+- Experience with cloud computing platforms (AWS, GCP, or Azure)
+
+Preferred Qualifications:
+- Experience in our industry or with similar data challenges
+- Knowledge of data visualization tools (Tableau, PowerBI)
+- Experience with MLOps and deployment of models to production
+- Background in deep learning or natural language processing
+- Experience with agile development methodologies
+- Contributions to open-source projects or research publications
+- Understanding of data privacy regulations and ethical AI frameworks 

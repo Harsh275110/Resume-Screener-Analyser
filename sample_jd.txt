@@ -1,0 +1,34 @@
+Senior Data Scientist Position
+
+We are looking for an experienced Senior Data Scientist to join our team. The ideal candidate will have strong expertise in machine learning, data analysis, and predictive modeling.
+
+Required Skills:
+- Python programming
+- Machine Learning (Scikit-learn, TensorFlow)
+- Data Analysis & Visualization
+- Big Data Technologies
+- Cloud Platforms (AWS, GCP)
+- Deep Learning
+- Natural Language Processing
+- SQL
+
+Preferred Skills:
+- Experience with recommendation systems
+- Knowledge of MLOps practices
+- Experience with automated testing
+- Strong communication skills
+- Team leadership experience
+
+Responsibilities:
+- Develop and deploy ML models
+- Create automated data pipelines
+- Mentor junior data scientists
+- Collaborate with cross-functional teams
+- Present findings to stakeholders
+
+Qualifications:
+- Master's degree in Computer Science or related field
+- 5+ years of experience in data science
+- Strong programming skills
+- Experience with cloud platforms
+- Excellent problem-solving abilities 
