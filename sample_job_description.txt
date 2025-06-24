@@ -1,0 +1,31 @@
+Machine Learning Engineer
+
+Job Description:
+We are looking for an experienced Machine Learning Engineer to join our data science team. The successful candidate will be responsible for designing and implementing ML models, collaborating with cross-functional teams, and contributing to our AI-driven product development.
+
+Responsibilities:
+- Design, develop, and implement machine learning models and algorithms
+- Analyze large datasets to extract insights and identify patterns
+- Collaborate with data engineering, product, and backend teams
+- Optimize existing models for improved performance and scalability
+- Stay up-to-date with the latest ML research and technologies
+- Document and present findings to technical and non-technical stakeholders
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field
+- 3+ years of experience in machine learning or related field
+- Strong programming skills in Python and experience with ML frameworks such as TensorFlow, PyTorch, or scikit-learn
+- Experience with data processing using Pandas, NumPy, and other data science libraries
+- Familiarity with NLP concepts and libraries (NLTK, SpaCy)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of SQL and NoSQL databases
+- Experience with version control systems (Git)
+
+Preferred Skills:
+- PhD in Computer Science, Machine Learning or related field
+- Experience with deep learning architectures (CNNs, RNNs, Transformers)
+- Knowledge of big data technologies (Spark, Hadoop)
+- Experience with MLOps and CI/CD for ML pipelines
+- Familiarity with containerization technologies (Docker, Kubernetes)
+- Experience with data visualization tools (Matplotlib, Seaborn, Plotly)
+- Knowledge of RESTful APIs and microservice architectures 

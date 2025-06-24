@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Can you explain the difference between supervised and unsupervised learning?",
+      "expected_answer": "Supervised learning uses labeled data where the algorithm learns to predict outputs based on input features, while unsupervised learning works with unlabeled data to find patterns or structure without explicit output targets.",
+      "keywords": ["labeled data", "unlabeled data", "prediction", "classification", "regression", "clustering", "pattern recognition", "targets"],
+      "category": "Technical"
+    },
+    {
+      "question": "What is the bias-variance tradeoff in machine learning?",
+      "expected_answer": "The bias-variance tradeoff is a fundamental concept in machine learning that describes the balance between underfitting (high bias) and overfitting (high variance). High bias models are too simple and underfit the data, while high variance models are too complex and overfit the training data, failing to generalize to new examples.",
+      "keywords": ["underfitting", "overfitting", "generalization", "model complexity", "training error", "testing error", "simple model", "complex model"],
+      "category": "Technical"
+    },
+    {
+      "question": "How would you handle missing data in a dataset?",
+      "expected_answer": "Handling missing data depends on the dataset and problem context. Common approaches include: removing rows with missing values, imputing missing values using mean/median/mode, using advanced imputation techniques like KNN or regression, using algorithms that handle missing values (like XGBoost), or treating missing values as a separate category.",
+      "keywords": ["imputation", "mean", "median", "mode", "deletion", "drop", "KNN", "regression", "missing value indicators", "missingness pattern"],
+      "category": "Technical"
+    },
+    {
+      "question": "Describe a challenging machine learning project you've worked on. What problems did you encounter and how did you solve them?",
+      "expected_answer": "",
+      "keywords": ["problem definition", "data collection", "data cleaning", "feature engineering", "model selection", "validation", "deployment", "challenges", "solutions", "results", "metrics", "improvement"],
+      "category": "Experience"
+    },
+    {
+      "question": "How do you stay updated with the latest developments in machine learning?",
+      "expected_answer": "",
+      "keywords": ["research papers", "conferences", "courses", "blogs", "competitions", "open source", "community", "implementation", "experimentation", "continuous learning"],
+      "category": "Professional Development"
+    },
+    {
+      "question": "Explain the concept of regularization in machine learning models.",
+      "expected_answer": "Regularization is a technique used to prevent overfitting by adding a penalty term to the loss function that discourages complex models. Common regularization methods include L1 (Lasso) and L2 (Ridge) regularization, which add penalties based on the absolute or squared values of model parameters, respectively. This helps the model generalize better to unseen data.",
+      "keywords": ["L1", "L2", "Lasso", "Ridge", "overfitting", "penalty", "complexity", "loss function", "generalization", "shrinkage", "feature selection"],
+      "category": "Technical"
+    },
+    {
+      "question": "How would you explain a complex machine learning model to non-technical stakeholders?",
+      "expected_answer": "",
+      "keywords": ["simplification", "visualization", "analogy", "business impact", "key factors", "decision process", "interpretability", "importance", "confidence", "limitations", "performance metrics"],
+      "category": "Communication"
+    },
+    {
+      "question": "Describe your experience with deploying machine learning models to production.",
+      "expected_answer": "",
+      "keywords": ["CI/CD", "containerization", "monitoring", "scaling", "API", "versioning", "testing", "performance", "maintenance", "infrastructure", "cloud", "MLOps"],
+      "category": "Experience"
+    },
+    {
+      "question": "What evaluation metrics would you use for an imbalanced classification problem?",
+      "expected_answer": "For imbalanced classification problems, accuracy can be misleading. Better metrics include: precision, recall, F1-score, area under the ROC curve (AUC-ROC), area under the precision-recall curve (AUC-PR), balanced accuracy, and the Matthews correlation coefficient. Choosing appropriate thresholds and using techniques like stratification in cross-validation are also important.",
+      "keywords": ["precision", "recall", "F1", "AUC", "ROC", "PR curve", "confusion matrix", "class weight", "threshold", "balanced accuracy", "specificity", "sensitivity"],
+      "category": "Technical"
+    },
+    {
+      "question": "How do you approach collaboration with data engineers and software developers?",
+      "expected_answer": "",
+      "keywords": ["communication", "documentation", "code quality", "version control", "requirements", "feedback", "integration", "testing", "shared understanding", "pipeline", "workflow", "agile"],
+      "category": "Teamwork"
+    }
+  ]
+} 
